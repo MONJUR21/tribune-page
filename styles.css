@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    padding: 15px;
+}
+main{
+    background: #eee;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+figcaption{
+    padding: 15px;
+
+}
+#img-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(250, 250, 250);
+}
+#image{
+    max-width: 100%;
+    height: auto;
+}
+h3{
+    text-align: center;
+    margin: 15px;
+}
+.details{
+    width: 50vw;
+    line-height: 1.5;
+}
+.footer{
+    margin: 20px 0px;
+    display: flex;
+    text-align: left;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    padding-left: 10px;
+}
+.des{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
